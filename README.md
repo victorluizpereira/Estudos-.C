@@ -1,3 +1,1 @@
-# Estudos-.C
-# Estudos-.C
-# Estudos-.C
+# Estudos da linguagem .c para aplicações de atividades universitárias
